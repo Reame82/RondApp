@@ -84,8 +84,11 @@ Contribuições são bem-vindas! Se você tem alguma ideia de melhoria ou encont
 Se você tiver alguma dúvida, sugestão ou feedback, entre em contato conosco:
 
 📧 Email: support@rondapp.com
+
 🐦 Twitter: @rondapp
+
 🌐 Website: https://www.rondapp.com
+
 ☎️ Telefone: 16 3371-8841
 
 ## Agradecimentos Especiais 🙌
