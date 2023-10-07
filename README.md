@@ -7,8 +7,11 @@ Bem-vindo ao RondApp - a melhor solução para registrar e consultar quilometrag
 O RondApp é um aplicativo intuitivo e poderoso projetado para simplificar o rastreamento de quilometragem de segurança de uma forma divertida e eficiente. Com ele, você pode:
 
 📋 Registrar facilmente a quilometragem percorrida em suas rondas de segurança.
+
 🗺️ Visualizar e gerenciar todas as suas rotas em um mapa interativo.
+
 🔍 Pesquisar e analisar dados de quilometragem de forma rápida e eficaz.
+
 🛡️ Segurança no armazenamento de dados para sua empresa.
 
 
@@ -22,16 +25,12 @@ O RondApp é um aplicativo intuitivo e poderoso projetado para simplificar o ras
 
 ## Olha como eu era pequenininhoooo.👶
 
-
 ![image](https://github.com/Reame82/RondApp/assets/142109092/f24e06aa-aa18-4a48-8dc1-a9aa801efbb1)
-
-
 
 ![image](https://github.com/Reame82/RondApp/assets/142109092/d733a723-3467-4803-a6e4-21115c7b9c05)
 
 
 ## Se liguem na evolução.💪😎
-
 
 
 ![Blue and white Minimalist Modern Hotel Resort Logo (1)](https://github.com/Reame82/RondApp/assets/142109092/3aaa976e-0a13-468a-a5c6-47d49b0e03dc)
