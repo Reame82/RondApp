@@ -88,6 +88,8 @@ Se você tiver alguma dúvida, sugestão ou feedback, entre em contato conosco:
 
 Agradecemos a todos os nossos incríveis usuários que tornaram o RondApp possível. Continuaremos trabalhando duro para tornar este aplicativo ainda melhor! ❤️
 
+Agradecemos também ao Prof. Vinicius dos Santos, o qual foi peça chave para que nosso projeto se tornasse possível, sem ele nada disso teria acontecido!!
+
 Obrigado por escolher o RondApp! 🚀
 
 ## Licença 📝
