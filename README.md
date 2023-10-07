@@ -32,6 +32,11 @@ O RondApp é um aplicativo intuitivo e poderoso projetado para simplificar o ras
 
 ## Se liguem na evolução.💪😎
 
+
+
+![Blue and white Minimalist Modern Hotel Resort Logo (1)](https://github.com/Reame82/RondApp/assets/142109092/3aaa976e-0a13-468a-a5c6-47d49b0e03dc)
+
+
 ![unnamed](https://github.com/Reame82/RondApp/assets/142109092/f7bdcf94-9fd3-489b-aadf-e327198d0321)
 
 
