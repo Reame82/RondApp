@@ -44,6 +44,10 @@ O RondApp é um aplicativo intuitivo e poderoso projetado para simplificar o ras
 ![unnamed](https://github.com/Reame82/RondApp/assets/142109092/37c273d7-8c18-4e14-8bd0-19a64a384eaf)
 
 
+
+
+
+
 ## Por que escolher o RondApp? 🤔
 
 ✨ **Fácil de Usar:** Não importa se você é um novato ou um profissional experiente, o RondApp foi projetado para ser simples de usar, com uma interface amigável.
