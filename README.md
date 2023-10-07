@@ -18,7 +18,9 @@ O RondApp é um aplicativo intuitivo e poderoso projetado para simplificar o ras
 ## Futuras funcionalidades.⚠️👷
 
 📱 Implementação para smartphones.
+
 🌬️ Conexão entre ronda e central .
+
 🗺️ Rastreamento em tempo real.
 
 ## Acompanhe um pouco da nossa evolução!
@@ -88,11 +90,10 @@ Se você tiver alguma dúvida, sugestão ou feedback, entre em contato conosco:
 
 Agradecemos a todos os nossos incríveis usuários que tornaram o RondApp possível. Continuaremos trabalhando duro para tornar este aplicativo ainda melhor! ❤️
 
-Agradecemos também ao Prof. Vinicius dos Santos, o qual foi peça chave para que nosso projeto se tornasse possível, sem ele nada disso teria acontecido!!
+Agradecemos também ao Prof. Vinicius dos Santos, o qual foi peça chave para que nosso projeto se tornasse possível, sem ele nada disso teria acontecido!! ❤️
 
 Obrigado por escolher o RondApp! 🚀
 
-## Licença 📝
 
 ## Badges 🔰
 
