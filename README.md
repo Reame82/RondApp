@@ -4,7 +4,9 @@ Bem-vindo ao RondApp - a melhor solução para registrar e consultar quilometrag
 
 ## O que é o RondApp? 📱
 
-O RondApp é um aplicativo intuitivo e poderoso projetado para simplificar o rastreamento de quilometragem de segurança de uma forma divertida e eficiente. Com ele, você pode:
+O RondApp é um aplicativo intuitivo e poderoso projetado para simplificar o rastreamento de quilometragem de segurança de uma forma divertida e eficiente. 
+
+## Com ele, você pode: ✅
 
 📋 Registrar facilmente a quilometragem percorrida em suas rondas de segurança.
 
