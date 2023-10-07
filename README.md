@@ -67,8 +67,8 @@ O RondApp é um aplicativo intuitivo e poderoso projetado para simplificar o ras
 
 É fácil começar a usar o RondApp:
 
-1. Faça o download do software Pycharm em seu computador
-2. Execute o arquivo
+1. Faça o download do software Pycharm em seu computador.
+2. Execute o arquivo.
 3. Comece a registrar suas rondas e quilometragem com facilidade, navegando pelas abas.
 
 Viu como a gente descomplicou o processo para você, afinal tudo que fizemos foi pensando no seu bem estar! 🥰
