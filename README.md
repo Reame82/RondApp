@@ -20,7 +20,7 @@ O RondApp é um aplicativo intuitivo e poderoso projetado para simplificar o ras
 
 ## Acompanhe um pouco da nossa evolução!
 
-## Olha como eu era tão pequenininhoooo.👶
+## Olha como eu era pequenininhoooo.👶
 
 
 ![image](https://github.com/Reame82/RondApp/assets/142109092/f24e06aa-aa18-4a48-8dc1-a9aa801efbb1)
